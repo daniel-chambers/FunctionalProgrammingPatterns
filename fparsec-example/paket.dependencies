@@ -1,0 +1,6 @@
+source http://www.myget.org/f/aspnetwebstacknightly/
+source http://www.myget.org/f/aspnetwebstacknightlyrelease/
+source https://www.nuget.org/api/v2/
+
+nuget System.ValueTuple 4.3.0 restriction: >= net462
+nuget fparsec

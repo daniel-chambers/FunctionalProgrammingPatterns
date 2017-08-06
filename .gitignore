@@ -1,0 +1,5 @@
+.stack-work
+bin
+obj
+packages
+.vs
