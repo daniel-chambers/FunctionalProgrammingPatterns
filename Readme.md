@@ -8,6 +8,8 @@ This repository contains the presentation materials and sample code for the Func
 
 There are two versions of the slides, one done for NDC Sydney 2017, which was a one hour talk, and a cut down 45 minute version for DDD Melbourne 2017.
 
+Video: [NDC Sydney 2017](https://www.youtube.com/watch?v=v9QGWbGppis)
+
 ## args-example
 To get the `args-example` sample code up and running, you will need:
 * [Haskell Stack][1] - to compile the code
